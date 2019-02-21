@@ -1,0 +1,12 @@
+body{
+  background-color: #f6f8f9;
+}
+
+.pageContent{
+  margin-top: 20px;
+}
+
+.sideNavAvailable{
+  margin: 10px 0 0 250px;
+  box-sizing: border-box;
+}
